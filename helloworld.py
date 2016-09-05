@@ -5,5 +5,8 @@ Type "copyright", "credits" or "license()" for more information.
 >>> def main():
 	print 'Hello world'
 	exit()
+	
+>>> if __name__ == '__main__':
+    main()
 
 	
